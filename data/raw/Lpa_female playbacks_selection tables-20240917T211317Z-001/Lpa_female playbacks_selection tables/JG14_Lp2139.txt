@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Name
+1	Spectrogram 1	1	0.676654768	1.134391817	581.5	3683.1	PB_courtship
+2	Spectrogram 1	1	60.680536894	61.171443295	484.6	4119.2	PB_courtship
+3	Spectrogram 1	1	120.750409364	121.214780283	484.6	3634.6	PB_courtship
+4	Spectrogram 1	1	169.454654037	169.912391086	1393.3	7511.5	fem_resp
+5	Spectrogram 1	1	180.772028267	181.335907241	848.1	5149.0	PB_courtship
+6	Spectrogram 1	1	240.835052924	241.412199638	787.5	4846.2	PB_courtship
+7	Spectrogram 1	1	300.864899900	301.395609522	484.6	3998.1	PB_courtship
+8	Spectrogram 1	1	360.888101302	361.372373832	424.0	5209.6	PB_courtship

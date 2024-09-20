@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Name
+1	Spectrogram 1	1	4.946245291	7.390941239	982.1	4276.9	PB_trill
+2	Spectrogram 1	1	65.120825837	67.537095088	570.3	4023.5	PB_trill
+3	Spectrogram 1	1	125.200658804	127.493745701	887.1	4372.0	PB_trill
+4	Spectrogram 1	1	171.171364885	171.758849958	950.4	5322.4	fem_resp
+5	Spectrogram 1	1	253.338724923	253.859881036	982.1	5195.7	fem_resp
+6	Spectrogram 1	1	300.834998464	303.203889886	823.7	4340.3	PB_trill
+7	Spectrogram 1	1	357.489406173	358.057940114	1077.2	5100.6	fem_resp
+8	Spectrogram 1	1	360.943246011	363.207906211	855.4	3991.8	PB_trill
